@@ -1,3 +1,2 @@
 # MortFCNet
-Mortality Forecasting
-to be updated 
+Fine-grained mortality forecasting with deep learning
